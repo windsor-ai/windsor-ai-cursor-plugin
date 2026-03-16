@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Windsor.ai Logo</title>
+  <desc id="desc">Logo for the Windsor.ai Cursor plugin.</desc>
+  <rect width="128" height="128" rx="20" fill="#0F172A" />
+  <rect x="16" y="16" width="96" height="96" rx="14" fill="#6366F1" />
+  <text x="64" y="78" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle">W</text>
+</svg>

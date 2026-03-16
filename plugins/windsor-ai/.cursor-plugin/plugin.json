@@ -1,0 +1,13 @@
+{
+  "name": "windsor-ai",
+  "displayName": "Windsor.ai",
+  "version": "0.1.0",
+  "description": "Query marketing and business data from 325+ sources using Windsor.ai's MCP server. Analyze ad spend, conversions, and ROI across channels with natural language.",
+  "author": {
+    "name": "Windsor.ai",
+    "email": "support@windsor.ai"
+  },
+  "license": "MIT",
+  "keywords": ["cursor", "plugin", "mcp", "windsor", "marketing", "analytics", "advertising", "data"],
+  "logo": "assets/logo.svg"
+}

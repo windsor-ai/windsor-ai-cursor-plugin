@@ -1,8 +1,8 @@
 {
   "name": "cursor-plugin-starters",
   "owner": {
-    "name": "Your Org",
-    "email": "plugins@example.com"
+    "name": "Windsor.ai",
+    "email": "support@windsor.ai"
   },
   "metadata": {
     "description": "Starter marketplace template for Cursor plugins",
@@ -12,13 +12,18 @@
   "plugins": [
     {
       "name": "starter-simple",
-      "source": "./plugins/starter-simple",
+      "source": "plugins/starter-simple",
       "description": "Minimal plugin with rules and skills only"
     },
     {
       "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
+      "source": "plugins/starter-advanced",
       "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
+    },
+    {
+      "name": "windsor-ai",
+      "source": "plugins/windsor-ai",
+      "description": "Query marketing and business data from 325+ sources using Windsor.ai"
     }
   ]
 }

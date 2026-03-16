@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "windsor": {
+      "command": "uvx",
+      "args": ["mcp-proxy", "https://mcp.windsor.ai/sse"]
+    }
+  }
+}

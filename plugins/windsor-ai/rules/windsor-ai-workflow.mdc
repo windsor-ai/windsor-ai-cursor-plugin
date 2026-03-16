@@ -1,0 +1,15 @@
+---
+description: Best practices for querying and analyzing data through the Windsor.ai MCP server
+alwaysApply: true
+---
+
+windsor-ai-workflow:
+
+- Always call get_connectors first to discover available data sources and account IDs before querying data.
+- Use get_options and get_fields to understand available metrics and dimensions before calling get_data.
+- Fields with NUMERIC or PERCENT types are metrics (aggregated values). All other types are dimensions (grouping keys).
+- When the user asks about marketing performance, default to key metrics: spend, impressions, clicks, conversions, and cost per conversion.
+- Always specify a date range in get_data requests. Default to the last 30 days if the user does not specify one.
+- Present results in tables when comparing across channels, campaigns, or time periods.
+- Include the data source and date range in your response so the user knows what they are looking at.
+- When the user provides their Windsor API key, use it in subsequent requests. Do not ask for it repeatedly.
