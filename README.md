@@ -20,7 +20,3 @@ Cursor plugin for querying marketing and business data from 325+ sources with [W
 ## Supported data sources
 
 Windsor.ai connects to 325+ platforms including Google Ads, Facebook Ads, Google Analytics 4, Salesforce, LinkedIn Ads, TikTok Ads, and more.
-
-## Requirements
-
-- [uv](https://docs.astral.sh/uv/) (for the `mcp-proxy` transport)
