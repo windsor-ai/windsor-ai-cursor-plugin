@@ -1,6 +1,6 @@
 # Windsor.ai Cursor Plugin
 
-Cursor plugin for querying marketing and business data from 325+ sources with [Windsor.ai](https://windsor.ai).
+Cursor plugin for querying marketing and business data from 350+ sources with [Windsor.ai](https://windsor.ai).
 
 ## What's included
 
@@ -19,4 +19,4 @@ Cursor plugin for querying marketing and business data from 325+ sources with [W
 
 ## Supported data sources
 
-Windsor.ai connects to 325+ platforms including Google Ads, Facebook Ads, Google Analytics 4, Salesforce, LinkedIn Ads, TikTok Ads, and more.
+Windsor.ai connects to 350+ platforms including Google Ads, Facebook Ads, Google Analytics 4, Salesforce, LinkedIn Ads, TikTok Ads, and more.
